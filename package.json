@@ -1,0 +1,19 @@
+{
+  "name": "c2_u5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "build:w": "webpack --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
